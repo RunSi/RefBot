@@ -13,7 +13,7 @@ except ImportError:
     from flask import request
 
 
-bearer = "NTI0YWJlNzMtNWNjNS00YTNhLWI0YTItOWE2NzJmYzkxNTE2MjYwZGZhMzYtNjgw" # BOT'S ACCESS TOKEN
+bearer = "" # BOT'S ACCESS TOKEN
 headers = {
     "Accept": "application/json",
     "Content-Type": "application/json; charset=utf-8",
